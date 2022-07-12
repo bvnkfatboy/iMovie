@@ -252,3 +252,25 @@ background-color: #555; /* Add a dark-grey background on hover */
      height: 600px;
      border-radius: 10px;
 }
+
+
+.myinfo{
+     width: 100%;
+     /* height: auto; */
+     display: flex;
+     align-items: center;
+     align-content: center;
+     justify-content: center;
+     justify-items: center;
+     margin-top: 100px;
+}
+
+.myinfo small{
+     margin-top: 10px;
+}
+.myinfo img{
+     border-radius: 100%;
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
